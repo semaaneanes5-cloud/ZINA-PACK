@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://semaaneanes5-cloud.github.io/ZINA-PACK/sitemap.xml
+
